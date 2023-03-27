@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stranneyt123
-- 👀 I’m interested in moving into my first role within the Tech industry
-- 🌱 I’m currently learning Udacity's Intro to Programming Course, which covers the basics of HTML/CSS/Python and Javascript
+- 👀 I’m interested in moving into my first role as a data analyst
+- 🌱 I’m currently completing a data analytics course focusing on SQL, Excel, PowerBI and Tableau.
 - 📫 How to reach me tomstranney@gmail.com
 
 <!---
